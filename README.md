@@ -22,4 +22,4 @@ zanahorias = "🥕🥕🥕"
 print(f"¡Listo! Se han plantado: {zanahorias}")
 
 
- ¡Espero que disfrutéis de estas prácticas tanto como yo disfruto preparándolas! Y por supuesto ya sabéis si os quedáis con alguna duda, no dudéis en preguntar. ¡Vamos a aprender y a crecer juntas! 🌻🌸🌼
+## ¡Espero que disfrutéis de estas prácticas tanto como yo disfruto preparándolas! Y por supuesto ya sabéis si os quedáis con alguna duda, no dudéis en preguntar. ¡Vamos a aprender y a crecer juntas! 🌻🌸🌼
